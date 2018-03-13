@@ -1,12 +1,12 @@
 # ProjecScheduler
-Text-based Java program for manage project by team Logcat
-Thanin Srithai		58070501092
-Weerawat Onsamlee	58070501099
-
-after compile
-Linux : run "java -classpath ".:sqlite-jdbc-3.21.0.jar" ProjectScheduler"
-Windows: run "java -classpath ".;sqlite-jdbc-3.21.0.jar" ProjectScheduler"
-
+Text-based Java program for manage project by team Logcat  
+Thanin Srithai		58070501092  
+Weerawat Onsamlee	58070501099  
+  
+after compile  
+Linux : run "java -classpath ".:sqlite-jdbc-3.21.0.jar" ProjectScheduler"  
+Windows: run "java -classpath ".;sqlite-jdbc-3.21.0.jar" ProjectScheduler"  
+  
 ###############NOTE#################  
 You can see the video here : https://youtu.be/9tIRenSRZB4  
 I included empty database file and file which has some data in the folder /code  
