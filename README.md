@@ -1,7 +1,7 @@
 # ProjecScheduler
 Text-based Java program for manage project by team Logcat  
-Thanin Srithai		58070501092  
-Weerawat Onsamlee	58070501099  
+Thanin Srithai    58070501092  
+Weerawat Onsamlee 58070501099  
   
 after compile  
 Linux : run "java -classpath ".:sqlite-jdbc-3.21.0.jar" ProjectScheduler"  
